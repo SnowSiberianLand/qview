@@ -1,0 +1,13 @@
+<root>
+  <Settings>
+    <Title Value="Example of fense"/>
+    <VerticalScale Value="0.001"/>
+    <BetweenWellDistance Value="60"/>
+    <FirstAndEndWellDistance Value="30"/>
+    <Minimal_width Value="1600"/>
+    <Maximal_width Value="1800"/>
+    <WellCount Value="3"/>
+    <WellHidden Value=""/>
+    <MainFont Value="Arial"/>
+  </Settings>
+</root>

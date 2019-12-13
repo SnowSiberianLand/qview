@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<root>
+  <Settings>
+    <Title Value="Denis bez penis"/>
+    <VerticalScale Value="0.001"/>
+    <BetweenWellDistance Value="60"/>
+    <FirstAndEndWellDistance Value="30"/>
+    <Minimal_width Value="1600"/>
+    <Maximal_width Value="1800"/>
+    <WellHidden Value=""/>
+    <MainFont Value="Arial"/>
+  </Settings>
+  <Tag name="Work">
+    <Title name="">
+      <Wells>
+        <Well name="4">
+          <Status cat="Нагнет по газу" status="Ост"/>
+          <WellGuid Value="9"/>
+          <FalseBottom Value="1205.0"/>
+          <YearsWithOverhaulStabilizationOfProducingFormation/>
+          <YearsWithOverhaulWaterEntryPicketUtility/>
+          <CementBridges/>
+          <SandyArgillaceousPlugs Bottom="1250.0" Top="1125.0" Year="00"/>
+          <CurrentBottomholes>
+            <CurrentBottomhole Value="1125.0" Year="00"/>
+          </CurrentBottomholes>
+          <PerfDataS>
+            <PerfData Base="1130.5" ShowYear="False" Top="1112.0" Type="liner" Year="01.2002"/>
+            <PerfData Base="1175.0" ShowYear="False" Top="1160.0" Type="isol" Year="01.2002"/>
+          </PerfDataS>
+          <CementingQualityIntervals>
+            <CementingQualityInterval Bottom="100.0" CementingQuality="No" Colour="whitesmoke" Top="0.0"/>
+            <CementingQualityInterval Bottom="150.0" CementingQuality="Bad" Colour="#999999" Top="100.0"/>
+            <CementingQualityInterval Bottom="500.0" CementingQuality="Part" Colour="lime" Top="150.0"/>
+            <CementingQualityInterval Bottom="550.0" CementingQuality="Good" Colour="fuchsia" Top="500.0"/>
+            <CementingQualityInterval Bottom="800.0" CementingQuality="Part" Colour="lime" Top="550.0"/>
+            <CementingQualityInterval Bottom="900.0" CementingQuality="Bad" Colour="#999999" Top="800.0"/>
+            <CementingQualityInterval Bottom="1160.0" CementingQuality="Good" Colour="fuchsia" Top="900.0"/>
+          </CementingQualityIntervals>
+          <Breaks/>
+          <CementedDevices/>
+          <Cuts/>
+          <YearsWithOverhaulClearEntryPicketUtility/>
+          <YearsWithOverhaulWashingAndStabilizationOfProducingFormation/>
+          <InflowIntervals/>
+          <YearsWithOverhaulWaterEntry/>
+          <WellDrilledMd Value="1250.0"/>
+        </Well>
+        <Well name="3">
+          <Status cat="" status=""/>
+          <WellGuid Value="8"/>
+          <FalseBottom Value="1150.0"/>
+          <YearsWithOverhaulStabilizationOfProducingFormation/>
+          <YearsWithOverhaulWaterEntryPicketUtility/>
+          <CementBridges/>
+          <SandyArgillaceousPlugs Bottom="1180.0" Top="1140.0" Year="00"/>
+          <CurrentBottomholes>
+            <CurrentBottomhole Value="1140.0" Year="00"/>
+          </CurrentBottomholes>
+          <PerfDataS>
+            <PerfData Base="1150.0" ShowYear="False" Top="1110.0" Type="perf" Year="01.2000"/>
+          </PerfDataS>
+          <CementingQualityIntervals>
+            <CementingQualityInterval Bottom="100.0" CementingQuality="No" Colour="whitesmoke" Top="0.0"/>
+            <CementingQualityInterval Bottom="150.0" CementingQuality="Bad" Colour="#999999" Top="100.0"/>
+            <CementingQualityInterval Bottom="500.0" CementingQuality="Part" Colour="lime" Top="150.0"/>
+            <CementingQualityInterval Bottom="550.0" CementingQuality="No" Colour="whitesmoke" Top="500.0"/>
+            <CementingQualityInterval Bottom="800.0" CementingQuality="Part" Colour="lime" Top="550.0"/>
+            <CementingQualityInterval Bottom="900.0" CementingQuality="Bad" Colour="#999999" Top="800.0"/>
+            <CementingQualityInterval Bottom="1160.0" CementingQuality="Good" Colour="fuchsia" Top="900.0"/>
+          </CementingQualityIntervals>
+          <Breaks/>
+          <CementedDevices/>
+          <Cuts/>
+          <YearsWithOverhaulClearEntryPicketUtility/>
+          <YearsWithOverhaulWashingAndStabilizationOfProducingFormation/>
+          <InflowIntervals>
+            <InflowInterval Bottom="1130.0" ShowLabelYear="False" Top="1110.0" Year=""/>
+          </InflowIntervals>
+          <YearsWithOverhaulWaterEntry/>
+          <WellDrilledMd Value="1180.0"/>
+        </Well>
+        <Well name="2">
+          <Status cat="" status=""/>
+          <WellGuid Value="7"/>
+          <FalseBottom Value="1185.0"/>
+          <YearsWithOverhaulStabilizationOfProducingFormation/>
+          <YearsWithOverhaulWaterEntryPicketUtility/>
+          <CementBridges/>
+          <SandyArgillaceousPlugs Bottom="1200.0" Top="1150.0" Year="00"/>
+          <CurrentBottomholes>
+            <CurrentBottomhole Value="1150.0" Year="00"/>
+          </CurrentBottomholes>
+          <PerfDataS>
+            <PerfData Base="1130.0" ShowYear="False" Top="1110.0" Type="perf" Year="01.2002"/>
+            <PerfData Base="1160.0" ShowYear="False" Top="1140.0" Type="perf" Year="01.2002"/>
+            <PerfData Base="1200" ShowYear="False" Top="1170.0" Type="isol" Year="01.2002"/>
+          </PerfDataS>
+          <CementingQualityIntervals>
+            <CementingQualityInterval Bottom="100.0" CementingQuality="No" Colour="whitesmoke" Top="0.0"/>
+            <CementingQualityInterval Bottom="250.0" CementingQuality="Bad" Colour="#999999" Top="100.0"/>
+            <CementingQualityInterval Bottom="500.0" CementingQuality="Part" Colour="lime" Top="250.0"/>
+            <CementingQualityInterval Bottom="550.0" CementingQuality="Bad" Colour="#999999" Top="500.0"/>
+            <CementingQualityInterval Bottom="800.0" CementingQuality="Part" Colour="lime" Top="550.0"/>
+            <CementingQualityInterval Bottom="900.0" CementingQuality="Bad" Colour="#999999" Top="800.0"/>
+            <CementingQualityInterval Bottom="1050.0" CementingQuality="Good" Colour="fuchsia" Top="900.0"/>
+            <CementingQualityInterval Bottom="1100.0" CementingQuality="Part" Colour="lime" Top="1050.0"/>
+            <CementingQualityInterval Bottom="1185.0" CementingQuality="Good" Colour="fuchsia" Top="1100.0"/>
+          </CementingQualityIntervals>
+          <Breaks/>
+          <CementedDevices/>
+          <Cuts/>
+          <YearsWithOverhaulClearEntryPicketUtility/>
+          <YearsWithOverhaulWashingAndStabilizationOfProducingFormation/>
+          <InflowIntervals>
+            <InflowInterval Bottom="1130.0" ShowLabelYear="False" Top="1110.0" Year=""/>
+            <InflowInterval Bottom="1145.0" ShowLabelYear="False" Top="1140.0" Year=""/>
+          </InflowIntervals>
+          <YearsWithOverhaulWaterEntry/>
+          <WellDrilledMd Value="1200.0"/>
+        </Well>
+        <Well name="1">
+          <Status cat="" status=""/>
+          <WellGuid Value="6"/>
+          <FalseBottom Value="1210.0"/>
+          <YearsWithOverhaulStabilizationOfProducingFormation/>
+          <YearsWithOverhaulWaterEntryPicketUtility/>
+          <CementBridges/>
+          <SandyArgillaceousPlugs Bottom="1225.0" Top="1180.0" Year="00"/>
+          <CurrentBottomholes>
+            <CurrentBottomhole Value="1180.0" Year="00"/>
+          </CurrentBottomholes>
+          <PerfDataS/>
+          <CementingQualityIntervals>
+            <CementingQualityInterval Bottom="150.0" CementingQuality="No" Colour="whitesmoke" Top="0.0"/>
+            <CementingQualityInterval Bottom="300.0" CementingQuality="Bad" Colour="#999999" Top="150.0"/>
+            <CementingQualityInterval Bottom="500.0" CementingQuality="Part" Colour="lime" Top="300.0"/>
+            <CementingQualityInterval Bottom="700.0" CementingQuality="Bad" Colour="#999999" Top="500.0"/>
+            <CementingQualityInterval Bottom="900.0" CementingQuality="Part" Colour="lime" Top="700.0"/>
+            <CementingQualityInterval Bottom="1100.0" CementingQuality="Bad" Colour="#999999" Top="900.0"/>
+            <CementingQualityInterval Bottom="1150.0" CementingQuality="Good" Colour="fuchsia" Top="1100.0"/>
+            <CementingQualityInterval Bottom="1200.0" CementingQuality="Part" Colour="lime" Top="1150.0"/>
+            <CementingQualityInterval Bottom="1225.0" CementingQuality="Good" Colour="fuchsia" Top="1200.0"/>
+          </CementingQualityIntervals>
+          <Breaks>
+            <Break Bottom="1115.0" Kind="ProductionString" ShowLabel="1" Top="1110.0" Year="2000"/>
+          </Breaks>
+          <CementedDevices/>
+          <Cuts/>
+          <YearsWithOverhaulClearEntryPicketUtility/>
+          <YearsWithOverhaulWashingAndStabilizationOfProducingFormation/>
+          <InflowIntervals>
+            <InflowInterval Bottom="1155.0" ShowLabelYear="False" Top="1140.0" Year=""/>
+            <InflowInterval Bottom="1180.0" ShowLabelYear="False" Top="1175.0" Year=""/>
+          </InflowIntervals>
+          <YearsWithOverhaulWaterEntry/>
+          <WellDrilledMd Value="1225.0"/>
+        </Well>
+        <Well name="5">
+          <Status cat="" status=""/>
+          <WellGuid Value="10"/>
+          <FalseBottom Value="1435.0"/>
+          <YearsWithOverhaulStabilizationOfProducingFormation/>
+          <YearsWithOverhaulWaterEntryPicketUtility/>
+          <CementBridges/>
+          <SandyArgillaceousPlugs Bottom="1450.0" Top="1430.0" Year="00"/>
+          <CurrentBottomholes>
+            <CurrentBottomhole Value="1430.0" Year="00"/>
+          </CurrentBottomholes>
+          <PerfDataS>
+            <PerfData Base="1150.0" ShowYear="False" Top="1130.0" Type="isol" Year="01.2002"/>
+            <PerfData Base="1200.0" ShowYear="False" Top="1150.0" Type="liner" Year="01.2002"/>
+            <PerfData Base="1400.0" ShowYear="False" Top="1290.0" Type="liner" Year="01.2002"/>
+          </PerfDataS>
+          <CementingQualityIntervals>
+            <CementingQualityInterval Bottom="100.0" CementingQuality="No" Colour="whitesmoke" Top="0.0"/>
+            <CementingQualityInterval Bottom="150.0" CementingQuality="Bad" Colour="#999999" Top="100.0"/>
+            <CementingQualityInterval Bottom="500.0" CementingQuality="Part" Colour="lime" Top="150.0"/>
+            <CementingQualityInterval Bottom="550.0" CementingQuality="Good" Colour="fuchsia" Top="500.0"/>
+            <CementingQualityInterval Bottom="800.0" CementingQuality="Part" Colour="lime" Top="550.0"/>
+            <CementingQualityInterval Bottom="900.0" CementingQuality="Bad" Colour="#999999" Top="800.0"/>
+            <CementingQualityInterval Bottom="1120.0" CementingQuality="Part" Colour="lime" Top="900.0"/>
+          </CementingQualityIntervals>
+          <Breaks>
+            <Break Bottom="1115.0" Kind="ProductionString" ShowLabel="1" Top="1090.0" Year="2000"/>
+            <Break Bottom="1330.0" Kind="ProductionString" ShowLabel="1" Top="1325.0" Year="2000"/>
+            <Break Bottom="1210.0" Kind="ProductionString" ShowLabel="1" Top="1205.0" Year="2000"/>
+          </Breaks>
+          <CementedDevices/>
+          <Cuts/>
+          <YearsWithOverhaulClearEntryPicketUtility/>
+          <YearsWithOverhaulWashingAndStabilizationOfProducingFormation/>
+          <InflowIntervals>
+            <InflowInterval Bottom="1320.0" ShowLabelYear="False" Top="1290.0" Year=""/>
+            <InflowInterval Bottom="1400.0" ShowLabelYear="False" Top="1308.0" Year=""/>
+          </InflowIntervals>
+          <YearsWithOverhaulWaterEntry/>
+          <WellDrilledMd Value="1450.0"/>
+        </Well>
+      </Wells>
+    </Title>
+  </Tag>
+</root>

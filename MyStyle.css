@@ -1,0 +1,11 @@
+QWidget {
+    background-color: lightgoldenrodyellow;
+    alignment: center;
+    border-style: groove;
+    padding-left: 0px;
+    border-left: 0px;
+    color: blanchedalmond;
+    padding-bottom: 15 px;
+    font-family: SansSerif;
+    margin-bottom: 15mm;
+}
